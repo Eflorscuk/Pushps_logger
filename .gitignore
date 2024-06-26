@@ -1,2 +1,5 @@
 # PIP packages
 pushups
+
+# Cache
+__pycache__
